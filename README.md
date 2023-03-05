@@ -1,4 +1,4 @@
-## Namaste🙏🏻Its [Mansi Dwivedi] (https://mansidw.github.io/)!
+## Namaste🙏🏻Its [Mansi Dwivedi] (https://mansidw.github.io/)
  
 <!--
 **mansidw/mansidw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
